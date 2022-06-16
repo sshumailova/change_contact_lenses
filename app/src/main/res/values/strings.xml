@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Time to change contact lenses</string>
+    <string name="bc">BC:</string>
+    <string name="pover">Power:</string>
+    <string name="diametr">DIA:</string>
+    <string name="save">Save</string>
+    <string name="lastChange">Last Change:</string>
+    <string name="saveData">Save changes?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="name">Your name:</string>
+    <string name="next_change">Next Change:</string>
+    <string name="days">Replacement schedule:</string>
+    <string name="select_date">Click to select a date</string>
+    <string name="goToUser">My account</string>
+    <string name="titleAlertSave">Confirm changes</string>
+    <string name="alertText">Do you want to change the replacement date?</string>
+    <string name="dateChangeButton">You have changed the date!</string>
+    <string name="noChangeDate">The date hasn\'t changed</string>
+    <string name="replacementDates">All replacement dates</string>
+    <string name="first_day">First day</string>
+    <string name="last_day">Last day</string>
+    <string name="delete_date">Do you want delete this dates?</string>
+    <string name="dates_delete">Dates deleted!</string>
+    <string name="dates_noDelete">Dates no delete!</string>
+    <string name="days_change_need">Please enter replacement period!</string>
+    <string name="use_lenses">You using lenses :</string>
+    <string name="how_days">th day</string>
+    <string name="timeChange">You need to change your contact lenses!</string>
+    <string name="todayDayChange">Today is contact lens replacement day!</string>
+    <string name="howdays_before_change">Time left until contact lens peclacement: </string>
+    <string name="q_days"> days</string>
+    <string name="q2_days"> days</string>
+    <string name="one_day"> day</string>
+    <string name="reminder">Reminder!</string>
+    <string name="ok">Ok</string>
+    <string name="remind_replace">Remind me to replace</string>
+    <string name="seven_days">7 days</string>
+    <string name="two_days">2 days</string>
+    <string name="one_dayreplace">1 day</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
